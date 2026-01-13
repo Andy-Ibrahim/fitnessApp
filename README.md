@@ -1,7 +1,9 @@
 An AI-powered fitness coaching app that combines conversational AI with comprehensive workout programming and health tracking. Think Claude or ChatGPT, but specifically designed for fitness enthusiasts who want intelligent, personalized training guidance.
-Overview
-VoiceFitness leverages advanced AI to create a seamless fitness experience where users can chat naturally with an AI coach to generate workout programs, get exercise recommendations, track progress, and sync with their wearable devices. The app features voice interaction, intelligent program generation, and deep integration with health tracking platforms.
+
+The app leverages advanced AI to create a seamless fitness experience where users can chat naturally with an AI coach to generate workout programs, get exercise recommendations, track progress, and sync with their wearable devices. The app features voice interaction, intelligent program generation, and deep integration with health tracking platforms.
+
 Key Features
+
 AI-Powered Coaching
 
 Natural language chat interface powered by fine-tuned Gemini AI
